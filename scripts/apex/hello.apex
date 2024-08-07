@@ -1,7 +1,7 @@
 
 
 integer n = 1;
-integer n2 = 2;
+integer n2 = 4;
 
 string operator = 'add';
 
